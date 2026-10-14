@@ -31,4 +31,9 @@ New runs execute through the command-line runner. The console does not claim a b
 
 The actual HTTP extraction captured 40 unique records from two pages of [Books to Scrape](https://books.toscrape.com/), a public scraping-practice catalogue. Prices and ratings are illustrative source data, not commercial market pricing. There were zero rejected records in this run.
 
-This is an independent project. This repository page is a source walkthrough, not a live hosted application.
+This is an independent project. The repository provides the full server application. A separate browser preview is available through GitHub Pages; it does not run the authenticated server backend.
+
+
+## Browser preview
+
+The `docs/index.html` preview runs in the browser. Search, rating filters, sorting and CSV/JSON downloads operate on the saved catalogue capture; it does not scrape new web pages.
