@@ -1,5 +1,9 @@
 # ExtractIQ — Web Extraction & Data Quality Console
 
+## What is this project used for?
+
+ExtractIQ is used to turn permitted public catalogue pages into clean, traceable datasets for analysis and reporting. It helps users collect product details, validate missing fields, remove duplicate source URLs and export records in CSV or JSON. Typical uses include catalogue research, data preparation and repeatable extraction jobs.
+
 ## The problem
 
 Raw web data needs validation, deduplication and traceable source links before it can be used in analysis or operational workflows.
